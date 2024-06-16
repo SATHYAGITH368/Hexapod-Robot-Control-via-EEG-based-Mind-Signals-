@@ -8,18 +8,20 @@ This project aims to develop an innovative system for controlling a hexapod robo
 
 The end goal is to enable hands-free operation of the hexapod robot, demonstrating the potential of mind-controlled robotics in applications ranging from assistive technologies to advanced human-robot interaction scenarios
 
-PREREQUISITES
-Make sure you have installed all of the following prerequisites on your development machine:
 
-Git - Download & Install Git. OSX and Linux machines typically have this already installed.
-Python - Download & Install Python3 - Minimum requirement 3.8.x
-Pybluez - Bluetooth Configuration
-Mindwave Configuration with python - Mindwave configuration
+Certainly! If you're looking to include a brief explanation of socket programming in your README file, here's a concise description you can use:
 
-REFERENCE:
-Topic	Reference Link:
-Introduction to EEG and Speech based Emotion Recognition	Book from Dr Babasaheb Ambedkar Marathwada University Aurangabad, India
-Python library to read data from Mindwave Neurosky	https://github.com/robintibor/python-mindwave-mobile
+Socket Programming Overview
+Socket programming is a fundamental technology for network communication, enabling applications to connect, send, and receive data over a network. It uses the concept of sockets, which are endpoints for communication between machines or processes.
 
+Key Concepts:
+Socket: A socket represents one endpoint of a two-way communication link between two programs running on the network. It includes an IP address and a port number.
 
+Client-Server Model: Socket programming typically follows a client-server architecture:
 
+Server: Waits for incoming connections from clients on a specified port. It handles multiple client connections simultaneously.
+Client: Initiates a connection to a server's socket using the server's IP address and port number.
+Communication Modes:
+
+Stream Sockets: Provides a reliable, connection-oriented communication channel (e.g., TCP).
+Datagram Sockets: Supports connectionless, unreliable communication where messages are sent in packets (e.g., UDP).
