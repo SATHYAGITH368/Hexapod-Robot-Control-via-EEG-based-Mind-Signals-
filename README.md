@@ -132,6 +132,7 @@ Datagram Sockets: Supports connectionless, unreliable communication where messag
 ![PHOTO-2024-06-16-19-34-35](https://github.com/SATHYAGITH368/Hexapod-Robot-Control-via-EEG-based-Mind-Signals-/assets/142714885/e8ee97e0-cb4c-4307-8e5f-3a3331c39c11)
 
 
+![Uploading PHOTO-2024-06-16-21-39-04.jpg…]()
 
 
 
