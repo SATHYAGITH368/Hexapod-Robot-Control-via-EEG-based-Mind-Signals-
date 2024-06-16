@@ -8,7 +8,7 @@ This project aims to develop an innovative system for controlling a hexapod robo
 
 The end goal is to enable hands-free operation of the hexapod robot, demonstrating the potential of mind-controlled robotics in applications ranging from assistive technologies to advanced human-robot interaction scenarios
 
-Prerequisites
+#PREREQUISITES-
 Make sure you have installed all of the following prerequisites on your development machine:
 
 Git - Download & Install Git. OSX and Linux machines typically have this already installed.
