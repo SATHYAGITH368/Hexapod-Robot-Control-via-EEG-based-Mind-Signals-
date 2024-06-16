@@ -11,7 +11,7 @@ The end goal is to enable hands-free operation of the hexapod robot, demonstrati
 
 Certainly! If you're looking to include a brief explanation of socket programming in your README file, here's a concise description you can use:
 
-##Socket Programming Overview
+## Socket Programming Overview
 Socket programming is a fundamental technology for network communication, enabling applications to connect, send, and receive data over a network. It uses the concept of sockets, which are endpoints for communication between machines or processes.
 
 Key Concepts:
