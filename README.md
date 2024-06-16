@@ -92,11 +92,13 @@ Mindwave Configuration with python - Mindwave configuration
 Server Setup:
 
 Ensure the EEG device is connected and configured with the Jetson Nano.
-Run read.py on the Jetson Nano.
+Run python2 read.py on the Jetson Nano.
 Client Setup:
 
 Adjust robot_controller.py to interface with your specific robot hardware.
-Run robot_controller.py on the Jetson Nano.
+Run python3 robot_controller.py on the Jetson Nano.
+
+Both the command should run simultaneously
 
 ## OPERATION:
 
