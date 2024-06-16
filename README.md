@@ -54,7 +54,7 @@ Actions: Actions extend the capabilities of services by allowing nodes to execut
 Packages: ROS packages are the basic unit of software in ROS. They contain libraries, executables, scripts, configuration files, and documentation needed to perform specific tasks.
 
 
-## Socket Programming Overview
+## SOCKET PROGRAMMING OVERVIEW
 Socket programming is a fundamental technology for network communication, enabling applications to connect, send, and receive data over a network. It uses the concept of sockets, which are endpoints for communication between machines or processes.
 
 Key Concepts:
@@ -63,7 +63,7 @@ Socket: A socket represents one endpoint of a two-way communication link between
 Client-Server Model: Socket programming typically follows a client-server architecture:
 
 
-## Components
+## COMPONENTS
 Server (read.py):
 
 Acts as the brain interface, using EEG signals to determine the user's attention and meditation levels.
@@ -75,7 +75,7 @@ Receives commands from the server via socket communication.
 Controls the robot's movements on the Jetson Nano platform.
 Commands include moving forward, rotating, and stopping the robot based on the EEG signals received.
 
-## Requirements
+## REQUIREMENTS
 Hardware:
 
 Jetson Nano with appropriate peripherals for robot control.
@@ -120,3 +120,20 @@ Datagram Sockets: Supports connectionless, unreliable communication where messag
 | ----------- | ----------- |
 | Introduction to EEG and Speech based Emotion Recognition | Book from Dr Babasaheb Ambedkar Marathwada University  Aurangabad, India |
 | Python library to read data from Mindwave Neurosky | https://github.com/robintibor/python-mindwave-mobile 
+
+
+
+## NEUROSKY MINDWAVE HEADSET:
+![NeuroSky-MindWave-headset](https://github.com/SATHYAGITH368/Hexapod-Robot-Control-via-EEG-based-Mind-Signals-/assets/142714885/d3f6dea7-4221-4e44-9c24-5e832237386e)
+
+
+
+## JETHEXA
+![PHOTO-2024-06-16-19-34-35](https://github.com/SATHYAGITH368/Hexapod-Robot-Control-via-EEG-based-Mind-Signals-/assets/142714885/e8ee97e0-cb4c-4307-8e5f-3a3331c39c11)
+
+
+
+
+
+
+
